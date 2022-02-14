@@ -1,5 +1,4 @@
-// {Name: Calculator}
-// {Description: Provides responses for basic math queries.}
+// {Name: 
 
 
 title('Calculator');
