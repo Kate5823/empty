@@ -1,5 +1,5 @@
 // {Name: Calendar}
-// {Description: What day is tomorrow}
+// {Description: What day is ssssssstomorrow}
 
 title("General calendar")
 
