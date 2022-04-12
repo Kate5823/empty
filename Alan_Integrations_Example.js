@@ -1,4 +1,4 @@
-// {Name: AlanSSSSSSSSSSSSSSSSSSSSSSSSSSS_Integrations_Example}
+// {Name: AlanSSопопропропрSSSSSSSSSSSSSSSSSSSSSSSSS_Integrations_Example}
 // {Description: Contains examples on how to integrate Alan with different platforms and frameworks}
 
 // Alan can be integrated with any application on most popular platforms and supports many different frameworks.
